@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://foilo.github.io/MHS/sitemap.MHS.gz
