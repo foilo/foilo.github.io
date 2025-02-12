@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://foilo.csgad.com/gwk/sitemap.xml.gz
